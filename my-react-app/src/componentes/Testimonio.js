@@ -5,14 +5,18 @@ export function Testimonio(props){
     return(
        <div className='contenedor-testimonio'>
         <img className='imagen-testimonio'
-             src='{props.imagen}'
-             alt='Foto de {props.persona}'/>
+             src={props.imagen}
+             alt={props.persona}/>
              <div className='contenedor-texto-testimonio'>
               <p className='nombre-testimonio'>
-                <strong>{props.nombre}</strong> en {props.pais}</p>
+                <strong>{props.nombre}</strong> en {props.pais}
+                </p>
               <p className='cargo-testimonio'>
-                {props.cargo} en <strong>{props.empresa}</strong></p>
-              <p className='texto-testimonio'>"{props.testimonio}"</p>
+                {props.cargo} en <strong>{props.empresa}</strong>
+                </p>
+              <p className='texto-testimonio'>
+                "{props.testimonio}"
+                </p>
              </div>
 
 
