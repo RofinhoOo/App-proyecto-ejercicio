@@ -13,7 +13,7 @@ function App() {
          persona='Emma'
          imagen='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBBOWVYCjG7rAj2_DDsvy-iRn_TfvoVoyqXw&usqp=CAU'
          cargo='Ingeniera de Software'
-         emprea='Spotify'
+         empresa='Spotify'
          testimonio='Llevo trabajando durante muchos años en Spotify y estoy super encantada con la empresa.'/>
 
 <Testimonio 
@@ -22,7 +22,7 @@ function App() {
          persona='Alex'
          imagen='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIDJkZprOLk6viyL7bc8xx8mDEdydV5wnGJQ&usqp=CAU'
          cargo='Ingeniera de Software'
-         emprea='FCB'
+         empresa='FCB'
          testimonio='Llevo trabajando durante muchos años en FCB y estoy super encantado con la empresa.'/>
 
 <Testimonio 
@@ -31,7 +31,7 @@ function App() {
          persona='Sara'
          imagen='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8AsLqdqFuLUeA5qYS-NlS2f-FKqvbZAfF8w&usqp=CAU'
          cargo='Ingeniera de Software'
-         emprea='British School'
+         empresa='British School'
          testimonio='Llevo trabajando durante muchos años en British School y estoy super encantada con la empresa.'/>
       </div>
     </div>
